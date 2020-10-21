@@ -16,6 +16,7 @@
 
 ### Storymap on Coronavirus' Early Spread in the USA
 [Storymap on Coronavirus in USA](https://storymaps.arcgis.com/stories/b73259fdc8ea4381adf097470e400adc)
+
 *A note: This was last updated in mid April of 2020* 
 
 **Above** is a story map completed in April of 2020, detailing the early spread of Coronavirus and states' responses in the United States. The data for this storymap was manipulated using ArcPro, then imported into ArcGis Online for the final product
