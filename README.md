@@ -17,20 +17,25 @@
 ### Storymap on Coronavirus' Early Spread in the USA
 [Storymap on Coronavirus in USA](https://storymaps.arcgis.com/stories/b73259fdc8ea4381adf097470e400adc)
 *A note: This was last updated in mid April of 2020* 
+
 **Above** is a story map completed in April of 2020, detailing the early spread of Coronavirus and states' responses in the United States. The data for this storymap was manipulated using ArcPro, then imported into ArcGis Online for the final product
 
 ### Layout Detailing Correlation between Shootings and Home Values in NYC
 ![ArcMap Layout detailing the correlation between Number of Shootings and Home Values in NYC](Troup_L_Geog161.jpg)
+
 [Associated Storymap](https://arcg.is/1LSLrS0)
+
 **Above** is the associated storymap
 The layout above was created in June of 2019 using ArcMap. The associated storymap was created in ArcGis Online.
 
 ### Visualization of Healthcare Facilities by Region in Mozambique
 ![Healthcare Facilities by Region](MOZ_hf_byadm.pdf)
+
 The above layout was created in Summer of 2020 using ArcPro for CIEIN's GRID3 Project
 
 ### Visualization of Communication Risk Index in Ethiopia
 ![Raster Ethiopia Communications](Ethiopia Communications.pdf)
+
 The above layout was created in Summer of 2020 using ArcPro for CIESIN's GRID3 Project
 
 ### Visualizations of Coronavirus Risk Factors in Zambia
