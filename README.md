@@ -34,11 +34,13 @@ The layout above was created in June of 2019 using ArcMap. The associated storym
 The above layout was created in Summer of 2020 using ArcPro for CIEIN's GRID3 Project
 
 ### Visualization of Communication Risk Index in Ethiopia
-![Raster Ethiopia Communications](Ethiopia Communications.pdf)
+![Raster Ethiopia Communications](Ethiopia_Communications.pdf)
 
 The above layout was created in Summer of 2020 using ArcPro for CIESIN's GRID3 Project
 
 ### Visualizations of Coronavirus Risk Factors in Zambia
 Below are layouts illustrating a Coronavirus risk factor (piped in water) across Zambia. These were created in the summer of 2020 using ArcPro for CIESIN's GRID3 project. Both black and white and color versions were created; black and white for distribution, color for reference.
-- Black and White Version: ![BW Piped in Water](BW_piped_in.pdf)
-- Color Version: ![Color Piped in Water](color_pipedin.pdf)
+- Black and White Version:
+    ![BW Piped in Water](BW_piped_in.pdf)
+- Color Version:
+    ![Color Piped in Water](color_pipedin.pdf)
