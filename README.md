@@ -11,6 +11,7 @@
 
 ### Storymap on Suitability for a Free Clinic in Washington DC
 [Storymap on Suitability for Free Clinic in Washington DC](https://storymaps.arcgis.com/stories/8984a2f9a41747f3bee55ebc69f5b819)
+
 **Above** is a story map completed in May 2020, analysing an ideal location for a new free clinic in Washington DC. This was completed predominantly using ArcGis Online.
 
 ### Storymap on Coronavirus' Early Spread in the USA
