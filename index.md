@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Lydia Troup Portfolio
 
-You can use the [editor on GitHub](https://github.com/lydiatroup/L_Troup_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Coding Product Examples
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Human Development in Yucatan, Mexico
+[Human Development in Yucatan Mexico](https://lydiatroup.github.io/workshop/final_project)
 
-### Markdown
+**Above** is a webite creating using github, which details an analysis of human development and demographics in the Yucatan region of Mexico. The products on this site were producted using R.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## GIS Product Examples
 
-# Header 1
-## Header 2
-### Header 3
+### Storymap on Suitability for a Free Clinic in Washington DC
+[Storymap on Suitability for Free Clinic in Washington DC](https://storymaps.arcgis.com/stories/8984a2f9a41747f3bee55ebc69f5b819)
 
-- Bulleted
-- List
+**Above** is a story map completed in May 2020, analysing an ideal location for a new free clinic in Washington DC. This was completed predominantly using ArcGis Online.
 
-1. Numbered
-2. List
+### Storymap on Coronavirus' Early Spread in the USA
+[Storymap on Coronavirus in USA](https://storymaps.arcgis.com/stories/b73259fdc8ea4381adf097470e400adc)
 
-**Bold** and _Italic_ and `Code` text
+*A note: This was last updated in mid April of 2020* 
 
-[Link](url) and ![Image](src)
-```
+**Above** is a story map completed in April of 2020, detailing the early spread of Coronavirus and states' responses in the United States. The data for this storymap was manipulated using ArcPro, then imported into ArcGis Online for the final product
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Layout Detailing Correlation between Shootings and Home Values in NYC
+![ArcMap Layout detailing the correlation between Number of Shootings and Home Values in NYC](Troup_L_Geog161.jpg)
 
-### Jekyll Themes
+[Associated Storymap](https://arcg.is/1LSLrS0)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lydiatroup/L_Troup_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Above** is the associated storymap
+The layout above was created in June of 2019 using ArcMap. The associated storymap was created in ArcGis Online.
 
-### Support or Contact
+### Visualization of Healthcare Facilities by Region in Mozambique
+![Healthcare Facilities by Region](MOZ_hf_byadm.pdf)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The above layout was created in Summer of 2020 using ArcPro for CIEIN's GRID3 Project
+
+### Visualization of Communication Risk Index in Ethiopia
+![Raster Ethiopia Communications](Ethiopia_Communications.pdf)
+
+The above layout was created in Summer of 2020 using ArcPro for CIESIN's GRID3 Project
+
+### Visualizations of Coronavirus Risk Factors in Zambia
+Below are layouts illustrating a Coronavirus risk factor (piped in water) across Zambia. These were created in the summer of 2020 using ArcPro for CIESIN's GRID3 project. Both black and white and color versions were created; black and white for distribution, color for reference.
+- Black and White Version:
+    ![BW Piped in Water](BW_piped_in.pdf)
+- Color Version:
+    ![Color Piped in Water](color_pipedin.pdf)
