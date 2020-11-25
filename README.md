@@ -3,7 +3,7 @@
 ## Coding Product Examples
 
 ### Modeling Demographic Data in Liberia
-[Libera](https://lydiatroup.github.io/146_EC/)
+[Modeling Demographic Data in Liberia](https://lydiatroup.github.io/146_EC/)
 
 **Above** is a webpage created using github, which explains and compares various models to predict the education of populations in Liberia. The products on this site were produced using python and the sklearn toolkit.
 
