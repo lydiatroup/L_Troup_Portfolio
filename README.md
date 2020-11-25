@@ -2,10 +2,16 @@
 
 ## Coding Product Examples
 
+### Modeling Demographic Data in Liberia
+[Libera](https://lydiatroup.github.io/146_EC/)
+
+**Above** is a webpage created using github, which explains and compares various models to predict the education of populations in Liberia. The products on this site were produced using python and the sklearn toolkit.
+
+
 ### Human Development in Yucatan, Mexico
 [Human Development in Yucatan Mexico](https://lydiatroup.github.io/workshop/final_project)
 
-**Above** is a webite creating using github, which details an analysis of human development and demographics in the Yucatan region of Mexico. The products on this site were producted using R.
+**Above** is a webite created using github, which details an analysis of human development and demographics in the Yucatan region of Mexico. The products on this site were producted using R.
 
 
 ## GIS Product Examples
