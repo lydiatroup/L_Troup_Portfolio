@@ -37,7 +37,7 @@
 The layout above was created in June of 2019 using ArcMap. The associated storymap was created in ArcGis Online.
 
 ### Visualization of Healthcare Facilities by Region in Mozambique
-![Healthcare Facilities by Region](0001 (1).jpg)
+![Healthcare Facilities by Region](0002.jpg)
 
 The above layout was created in Summer of 2020 using ArcPro for CIEIN's GRID3 Project
 
@@ -52,3 +52,7 @@ Below are layouts illustrating a Coronavirus risk factor (piped in water) across
     ![BW Piped in Water](BW_Piped.jpg)
 - Color Version:
     ![Color Piped in Water](0001.jpg)
+    
+    
+### Current Work
+Currently I am working on producing a storymap analyzing the 'fittest' cities in the country, and comparing two similar cities on opposite ends of the spectrum to see what makes one 'fit' and what makes the other 'unfit'
