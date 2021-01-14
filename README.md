@@ -21,6 +21,9 @@
 
 **Above** is a story map completed in May 2020, analysing an ideal location for a new free clinic in Washington DC. This was completed predominantly using ArcGis Online.
 
+### Storymap Analyzing Fitest Cities
+[Storymap on Fit Cities](https://arcg.is/1Kb0zy0)
+
 ### Storymap on Coronavirus' Early Spread in the USA
 [Storymap on Coronavirus in USA](https://storymaps.arcgis.com/stories/b73259fdc8ea4381adf097470e400adc)
 
@@ -52,8 +55,3 @@ Below are layouts illustrating a Coronavirus risk factor (piped in water) across
     ![BW Piped in Water](BW_Piped.jpg)
 - Color Version:
     ![Color Piped in Water](0001.jpg)
-    
-    
-### Current Work
-[Storymap on Fit Cities](https://arcg.is/1Kb0zy0)
-Storymap analyzing the 'fittest' cities in the country, and comparing two similar cities on opposite ends of the spectrum to see what makes one 'fit' and what makes the other 'unfit'
