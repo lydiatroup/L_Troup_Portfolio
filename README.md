@@ -55,4 +55,5 @@ Below are layouts illustrating a Coronavirus risk factor (piped in water) across
     
     
 ### Current Work
-Currently I am working on producing a storymap analyzing the 'fittest' cities in the country, and comparing two similar cities on opposite ends of the spectrum to see what makes one 'fit' and what makes the other 'unfit'
+[Storymap on Fit Cities](https://arcg.is/1Kb0zy0)
+Storymap analyzing the 'fittest' cities in the country, and comparing two similar cities on opposite ends of the spectrum to see what makes one 'fit' and what makes the other 'unfit'
