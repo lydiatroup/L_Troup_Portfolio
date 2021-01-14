@@ -19,10 +19,12 @@
 ### Storymap on Suitability for a Free Clinic in Washington DC
 [Storymap on Suitability for Free Clinic in Washington DC](https://storymaps.arcgis.com/stories/8984a2f9a41747f3bee55ebc69f5b819)
 
-**Above** is a story map completed in May 2020, analysing an ideal location for a new free clinic in Washington DC. This was completed predominantly using ArcGis Online.
+**Above** is a story map completed in May 2020, analyzing an ideal location for a new free clinic in Washington DC. This was completed predominantly using ArcGis Online.
 
 ### Storymap Analyzing Fitest Cities
 [Storymap on Fit Cities](https://arcg.is/1Kb0zy0)
+
+**Above** is a story map completed in January 2021, displaying the ACSM's most fit cities in the United States and analyzing the the differences between a city high and one low on the spectrum.
 
 ### Storymap on Coronavirus' Early Spread in the USA
 [Storymap on Coronavirus in USA](https://storymaps.arcgis.com/stories/b73259fdc8ea4381adf097470e400adc)
